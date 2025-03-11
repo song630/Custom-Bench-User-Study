@@ -1,0 +1,1 @@
+ one grape is <strong>small</strong> and <strong>shriveled</strong>, while the other grape appears <strong>plump</strong> and <strong>juicy</strong>. 

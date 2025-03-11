@@ -1,0 +1,1 @@
+ a hamburger <strong>with</strong> cheese <strong>rests on</strong> one plate, while the plate <strong>beside</strong> it has no hamburger at all. 

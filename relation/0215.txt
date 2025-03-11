@@ -1,0 +1,1 @@
+ a salesperson <strong>holds</strong> a pillow <strong>in</strong> each hand, and the pillow <strong>in</strong> the left hand <strong>looks softer than</strong> the one <strong>in</strong> the right. 

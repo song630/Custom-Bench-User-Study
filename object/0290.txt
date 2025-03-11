@@ -1,0 +1,1 @@
+A <strong>window</strong> consists of two <strong>pane</strong>s of <strong>glass</strong>, the left one is broken but the right one is intact.
