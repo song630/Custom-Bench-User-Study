@@ -1,0 +1,1 @@
+ one painter working with <strong>three</strong> small canvases. 

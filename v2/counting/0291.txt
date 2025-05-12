@@ -1,0 +1,1 @@
+ <strong>three</strong> apples next to <strong>four</strong> oranges on a table. 
