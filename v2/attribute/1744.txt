@@ -1,0 +1,1 @@
+ a puzzle with <strong>missing</strong> pieces lies on the table, while a puzzle without <strong>any</strong> <strong>missing</strong> pieces does not get touched. 
